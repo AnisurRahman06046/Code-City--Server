@@ -3,29 +3,47 @@
     "_id": "63595494527bcd42af10f106",
     "name": " Python For EveryBody",
     "category_id": "01",
-    "img": "http://placehold.it/32x32",
-    "info": "http://placehold.it/32x32"
+    "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/08/33f720502a11e59e72391aa537f5c9/pythonlearn_thumbnail_1x1.png?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25",
+
+    "info": "You will learn : installing python and write your first program,describe the basic of the Python programming language,use variables to store , retrieve and calculate information and also utilizing core programming tools such as functions and loops",
+
+    "about": "This Specialization builds on the success of the Python for Everybody course and will introduce fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. In the Capstone Project, you’ll use the technologies learned throughout the Specialization to design and create your own  applications for data retrieval, processing, and visualization."
   },
   {
     "_id": "635954945b93cc8ee170ae24",
     "name": "C Crash Course ",
     "category_id": "01",
-    "img": "http://placehold.it/32x32",
-    "info": "http://placehold.it/32x32"
+    "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/fb/cec454765c477fb662f1f0f3315968/CThumbnail_PartB-02.jpg?auto=format%2Ccompress&dpr=1&w=330&h=330&q=25&fit=fill",
+
+    "info": "This Specialization is intended for all programming enthusiasts, as well as beginners, computer and other scientists, and artificial intelligence enthusiasts seeking to develop their programming skills in the foundational languages of C and C++. Through the four courses — two in C, and two in C++ — you will cover the basics of programming in C and move on to the more advanced C++ semantics and syntax, which will prepare you to apply these skills to a number of higher-level problems using AI algorithms and Monte Carlo evaluation in complex games.",
+
+    "about": "In the new world we live in, coding is a universally valuable skill, whether you're a scientist, artist, or a humanist. Algorithms are everywhere, and we all have to understand how they work. The C language is particularly well suited as an introduction to coding: It's a tried-and-true language, and it allows you to understand computing processes at a deep level. You will also get an introduction to more advanced programming in C++ in the final module.This is a continuation of C for Everyone: Fundamentals, which you should take before beginning this course.The time estimated time commitment for this course is five hours a week for five weeks."
   },
   {
     "_id": "635954940770be53a6424288",
     "name": "Matlab for Beginners ",
     "category_id": "01",
-    "img": "http://placehold.it/32x32",
-    "info": "http://placehold.it/32x32"
+    "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/88/95d1ba5b2d48fab009356787a26dff/SquareLogo.png?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25",
+
+    "info": "You will learn fundamental computer programming concepts such as variables, control structures, functions and many others,various data types and how to handle them in MATLAB,powerful support MATLAb provides for working with matrices.",
+
+    "about": "This course teaches computer programming to those with little to no previous experience. It uses the programming system and language called MATLAB to do so because it is easy to learn, versatile and very useful for engineers and other professionals. MATLAB is a special-purpose language that is an excellent choice for writing moderate-size programs that solve problems involving the manipulation of numbers. The design of the language makes it possible to write a powerful program in a few lines. The problems may be relatively complex, while the MATLAB programs that solve them are relatively simple: relative, that is, to the equivalent program written in a general-purpose language, such as C++ or Java. As a result, MATLAB is being used in a wide variety of domains from the natural sciences, through all disciplines of engineering, to finance, and beyond, and it is heavily used in industry. Hence, a solid background in MATLAB is an indispensable skill in today’s job market.Nevertheless, this course is not a MATLAB tutorial. It is an introductory programming course that uses MATLAB to illustrate general concepts in computer science and programming. Students who successfully complete this course will become familiar with general concepts in computer science, gain an understanding of the general concepts of programming, and obtain a solid foundation in the use of MATLAB.Students taking the course will get a MATLAB Online license free of charge for the duration of the course. The students are encouraged to consult the eBook that this course is based on. More information about these resources can be found on the Resources menu on the right."
   },
   {
     "_id": "63595494d1c7b23a8a263145",
     "name": " Java : Beginners to Advance ",
     "category_id": "01",
-    "img": "http://placehold.it/32x32",
-    "info": "http://placehold.it/32x32"
+    "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/03/d249a30ce84b50a94ed728933a78b9/JavaCupLogo800x800.png?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25",
+
+    "info": "Learn the basic syntax and functions of the Java programming language,Apply object-oriented programming techniques to building classes, creating objects, and understanding how solutions are packaged in Java,implement inheritance and polymorphism in Java,using selected parts of the vast Java SE class library to enhance your Java programming techniques.",
+
+    "about":"
+    To be successful in this specialization, we recommend you have an understanding of the fundamentals of software development in any language. LearnQuest offers a beginning programmer specialization that can help you prepare.
+    In the four courses of this specialization, you’ll quickly master the Java programming language and the packages that constitute its rich set of core libraries. We’ll provide hands-on exercises so you can practice your new skills. 
+    In Course 1, we’ll introduce you to the basic fundamentals of the Java language. 
+    Course 2 provides a refresher on object-oriented programming, and how you can apply OO to Java. We’ll introduce Java classes, instances and packaging.
+    By the time you get to course 3, you’ll be ready to go deeper into applying OOP concepts in Java, including inheritance and polymorphism.In course 4 you’ll learn how to use selected parts of the Java SE Class LIbrary, including Generics, Collections, Java Streams, I/O, Exceptions, Annotations and Enums.While we'll touch on other important Java topics, such as database connectivity, Java EE and Spring, those topics are covered in greater detail in other LearnQuest Java Specializations. 
+    "
   },
   {
     "_id": "63595494de2c0be000362dd0",

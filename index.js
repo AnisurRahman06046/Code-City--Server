@@ -17,6 +17,9 @@ app.get("/category/:id", (req, res) => {
   const categoryCourse = courses.filter((n) => n.category_id === id);
   res.send(categoryCourse);
 });
+app.get("/course", (req, res) => {
+  res.send(courses);
+});
 app.get("/course/:id", (req, res) => {
   const id = req.params.id;
   const singleCourse = courses.find((n) => n._id === id);
