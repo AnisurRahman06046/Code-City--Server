@@ -1,26 +1,26 @@
 [
   {
     "id": "01",
-    "title": "Introduction to AI"
+    "name": "Programming Language"
   },
   {
     "id": "02",
-    "title": "Python for Beginners"
+    "name": "Web Development"
   },
   {
     "id": "03",
-    "title": "Machine Learning : Beginners to Advance"
+    "name": "CyberSecurity"
   },
   {
     "id": "04",
-    "title": "An Introduction to Ethical Hacking"
+    "name": "Data Science"
   },
   {
     "id": "05",
-    "title": "Python Advanceed Crash Course"
+    "name": "Artificial Intelligence"
   },
   {
     "id": "06",
-    "title": "Data Structures and Algorithm"
+    "name": "Data Structure and Algorithms"
   }
 ]
