@@ -47,59 +47,108 @@
   },
   {
     "_id": "63595494de2c0be000362dd0",
-    "name": " Flutter for Beginners ",
+    "name": " Swif Crash course ",
     "category_id": "01",
-    "img": "http://placehold.it/32x32",
-    "info": "http://placehold.it/32x32"
+    "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/a6/826c6bebf34bb5951014a292a1a43a/intro-to-swift-logo.png?auto=format%2Ccompress&dpr=1&w=330&h=330&q=25&fit=fill",
+
+    "info": "In this course how to install Xcode and other Swift tools to properly set up your development environment,how to program using Swift including strings, variables, constants and program logic,how to use data constructs and create reusable code segments,how to build common architectures for Swift and iOS development",
+    "about":"In this course we will introduce you to the absolute basics of the Swift programming language.  Whether you are a brand new programmer or have experience with other programming languages this course is for you.Some of the things you will learn in this course are:An Introduction to Swift 5 programming concepts Installing the necessary tools Working with data such as Integers and Strings Creating reusable code with functions Working with data constructs such as arrays and dictionaries Object-oriented programming Model View ControllerBy the end of this course you will know how to build simple programs with the Swift programming language and you will be ready to learn iOS mobile development."
   },
   {
     "_id": "63595494e6b4c9a6b04b8361",
-    "name": " PHP for Beginners ",
+    "name": " C++ for Beginners ",
     "category_id": "01",
-    "img": "http://placehold.it/32x32",
-    "info": "http://placehold.it/32x32"
+    "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/70/d28a28b3b24adc82008ce9acf33155/Specialization-Logo.png?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25",
+
+    "info": "Learn Graph Theory,C++11,C++,Graph Algorithms",
+
+    "about":"This course is for experienced C programmers who want to program in C++. The examples and exercises require a basic understanding of algorithms and object-oriented software."
   },
   {
     "_id": "635954946c24f003ab285419",
     "name": "Basic HTML,CSS ",
     "category_id": "02",
-    "img": "http://placehold.it/32x32",
-    "info": "http://placehold.it/32x32"
+    "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/e5/7aeafc636b47aa83ee4e5d7ac5f337/136528.png?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25",
+    "info": "Learn Debugging,User Interface,React (Web Framework)HTML and CSS",
+    "about":"
+    In this course, you’ll use software development tools like HTML to build attractive web pages that work well—and you’ll use structured semantic data to control how websites appear to the end user. 
+
+    You will then dive deeper into CSS by applying increasingly specific styling to various elements. You’ll learn to use Bootstrap’s grid system to create layouts and work with components and themes. Finally, you’ll explore debugging and learn how it can be utilized to banish common front-end errors.
+    
+    By the end of this course you will be able to:
+    
+    •	Create a simple form with a responsive layout using HTML5 and CSS
+    •	Create a responsive layout using CSS 
+    •	Create a UI using Bootstrap
+    •	Implement debugging tools
+    
+    This is a beginner course for learners who would like to prepare themselves for a career in front-end development. To succeed in this course, you do not need prior development experience, only basic internet navigation skills and an eagerness to get started with coding."
   },
   {
     "_id": "6359549471030d28ad70b171",
     "name": " HTML : Beginners to Advance",
     "category_id": "02",
-    "img": "http://placehold.it/32x32",
-    "info": "http://placehold.it/32x32"
+    "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/32/b88140502611e5bf374909c194f0db/introhtml_thumnail_1x1.png?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25",
+    "info": "Skill you will gain Web Design,Web Accessibility,HTML,Html5",
+    "about":"
+    Thanks to a growing number of software programs, it seems as if anyone can make a webpage. But what if you actually want to understand how the page was created? There are great textbooks and online resources for learning web design, but most of those resources require some background knowledge. This course is designed to help the novice who wants to gain confidence and knowledge. We will explore the theory (what actually happens when you click on a link on a webpage?), the practical (what do I need to know to make my own page?), and the overlooked (I have a page, what do I do now?). Throughout the course there will be a strong emphasis on adhering to syntactic standards for validation and semantic standards to promote wide accessibility for users with disabilities.  The textbook we use is available online, “The Missing Link: An Introduction to Web Development and Programming” by Michael Mendez from www.opensuny.org. 
+
+    This course will appeal to a wide variety of people, but specifically those who would like a step-by-step description of the basics. There are no prerequisites for this course and it is assumed that students have no prior programming skills or IT experience. The course will culminate in a small final project that will require the completion of a very simple page with links and images. The focus of this course is on the basics, not appearance. You can see a sample final page at http://intro-webdesign.com/html5-plain.html.  
+    
+    This is the first course in the Web Design For Everybody specialization. Subsequent courses focus on the marketable skills of styling the page with CSS3, adding interactivity with JavaScript and enhancing the styling with responsive design. You can see a sample site for the capstone course at http://intro-webdesign.com/"
   },
   {
     "_id": "63595494a37774158b9ab36d",
     "name": " CSS Crash Course ",
     "category_id": "02",
-    "img": "http://placehold.it/32x32",
-    "info": "http://placehold.it/32x32"
+    "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/9b/376180502811e5a352932b5892ee29/introcss_thumbnail_1x1.png?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25",
+    "info": "Skill you will gain Web Design,Style Sheets,Cascading Style Sheets (CSS),Web Development ",
+
+    "about":"
+    The web today is almost unrecognizable from the early days of white pages with lists of blue links.  Now, sites are designed with complex layouts, unique fonts, and customized color schemes.   This course will show you the basics of Cascading Style Sheets (CSS3).  The emphasis will be on learning how to write CSS rules, how to test code, and how to establish good programming habits.     
+
+    When done correctly, the styling of a webpage can take enhance your page.   When done incorrectly the result can be worse than no styling at all.    To ensure that your sites do not put up  barriers for people with cognitive and/or physical disabilities, you will learn how to evaluate pages using the standardized POUR accessibility guidelines.    Upon completion of the course, learners will be able to sketch a design for a given HTML page.  Using that design they will use CSS to implement the design by adding fonts, colors, and  layouts.    
+    
+    This is the second course in the Web Design For Everybody specialization.   Subsequent courses focus on adding interaction with JavaScript and enhancing the styling with responsive design.
+    
+    It will be difficult to complete this course if you do not have access to a laptop or desktop computer for the homework."
   },
   {
     "_id": "63595494a70757283c1343bb",
     "name": "Bootstrap Crash Course ",
     "category_id": "02",
-    "img": "http://placehold.it/32x32",
-    "info": "http://placehold.it/32x32"
+    "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/31/6abd60669411e5939373fafc912bbf/Slide1.png?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25",
+    "info": "You will learn Bootstrap (Front-End Framework),SASS (Stylesheet Language)",
+    "about":"
+    This course will give you an overview of client-side web UI frameworks, in particular Bootstrap 4. You will learn about grids and responsive design, Bootstrap CSS and JavaScript components. You will learn about CSS preprocessors, Less and Sass. You will also learn the basics of Node.js and NPM and task runners like Grunt and Gulp.
+
+    At the end of this course, you will be able to a)Set up, design and style a web page using Bootstrap 4 and its components, b) Create a responsive web page design, and c) Make use of web tools to setup and manage web sites.
+    This course also includes an honors track that enables you to work on your own project developing a website using Bootstrap 4.
+    Students enrolling in this course should have prior good working knowledge of HTML, CSS and JavaScript."
   },
   {
     "_id": "635954942b40b3ffb69f3d54",
     "name": " Frontend Web Development Ceash Course ",
     "category_id": "02",
-    "img": "http://placehold.it/32x32",
-    "info": "http://placehold.it/32x32"
+    "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/ea/961791a1904ea09af31999810fd916/Webserviceslogo.png?auto=format%2Ccompress&dpr=1&w=330&h=330&q=25&fit=fill",
+
+    "info": "Front-End Web Development,Web Service,HTML,CSS,JavaScript,React",
+    "about":"This specialization is geared toward beginning users who would like to learn and build Front-End Developer Skills. The courses in this series cover SOAP Web Services with JAX-WS, RESTful Web Services with JAX-Rs, and HTML - Front-End Developer among others, to help learners build a solid foundational knowledge."
   },
   {
     "_id": "63595494dfa290cd945b8b70",
     "name": "  CSS FrameWorks : Advanced Crash Course ",
     "category_id": "02",
-    "img": "http://placehold.it/32x32",
-    "info": "http://placehold.it/32x32"
+    "img": "hhttps://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/54/a8edbfdb8040e89d9177b53c50492d/Logo.jpg?auto=format%2Ccompress&dpr=1&w=330&h=330&q=25&fit=fill",
+    "info": "You will learn CSS,Tailwind,Bootstrap and some components",
+    "about":"
+    The web today is almost unrecognizable from the early days of white pages with lists of blue links.  Now, sites are designed with complex layouts, unique fonts, and customized color schemes.   This course will show you the basics of Cascading Style Sheets (CSS3).  The emphasis will be on learning how to write CSS rules, how to test code, and how to establish good programming habits.     
+
+    When done correctly, the styling of a webpage can take enhance your page.   When done incorrectly the result can be worse than no styling at all.    To ensure that your sites do not put up  barriers for people with cognitive and/or physical disabilities, you will learn how to evaluate pages using the standardized POUR accessibility guidelines.    Upon completion of the course, learners will be able to sketch a design for a given HTML page.  Using that design they will use CSS to implement the design by adding fonts, colors, and  layouts.    
+    
+    This is the second course in the Web Design For Everybody specialization.   Subsequent courses focus on adding interaction with JavaScript and enhancing the styling with responsive design.
+    
+    It will be difficult to complete this course if you do not have access to a laptop or desktop computer for the homework"
   },
   {
     "_id": "635954948540e32825c49fa5",
