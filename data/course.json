@@ -37,13 +37,7 @@
 
     "info": "Learn the basic syntax and functions of the Java programming language,Apply object-oriented programming techniques to building classes, creating objects, and understanding how solutions are packaged in Java,implement inheritance and polymorphism in Java,using selected parts of the vast Java SE class library to enhance your Java programming techniques.",
 
-    "about":"
-    To be successful in this specialization, we recommend you have an understanding of the fundamentals of software development in any language. LearnQuest offers a beginning programmer specialization that can help you prepare.
-    In the four courses of this specialization, you’ll quickly master the Java programming language and the packages that constitute its rich set of core libraries. We’ll provide hands-on exercises so you can practice your new skills. 
-    In Course 1, we’ll introduce you to the basic fundamentals of the Java language. 
-    Course 2 provides a refresher on object-oriented programming, and how you can apply OO to Java. We’ll introduce Java classes, instances and packaging.
-    By the time you get to course 3, you’ll be ready to go deeper into applying OOP concepts in Java, including inheritance and polymorphism.In course 4 you’ll learn how to use selected parts of the Java SE Class LIbrary, including Generics, Collections, Java Streams, I/O, Exceptions, Annotations and Enums.While we'll touch on other important Java topics, such as database connectivity, Java EE and Spring, those topics are covered in greater detail in other LearnQuest Java Specializations. 
-    "
+    "about": "In Course we will introduce you to the basic fundamentals of the Java language Course 2 provides a refresher on object-oriented programming  how you can apply OO to Java. We’ll introduce Java classes instances and packaging.By the time you get to course 3 you will be ready to go deeper into applying OOP concepts in Java including inheritance and polymorphism.In course 4 you will learn how to use selected parts of the Java SE Class LIbrary including Generics Collections Java Streams I/O Exceptions Annotations and Enums.While we'll touch on other important Java topics such as database connectivity Java EE and Spring those topics are covered in greater detail in other LearnQuest Java Specializations"
   },
   {
     "_id": "63595494de2c0be000362dd0",
@@ -52,7 +46,7 @@
     "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/a6/826c6bebf34bb5951014a292a1a43a/intro-to-swift-logo.png?auto=format%2Ccompress&dpr=1&w=330&h=330&q=25&fit=fill",
 
     "info": "In this course how to install Xcode and other Swift tools to properly set up your development environment,how to program using Swift including strings, variables, constants and program logic,how to use data constructs and create reusable code segments,how to build common architectures for Swift and iOS development",
-    "about":"In this course we will introduce you to the absolute basics of the Swift programming language.  Whether you are a brand new programmer or have experience with other programming languages this course is for you.Some of the things you will learn in this course are:An Introduction to Swift 5 programming concepts Installing the necessary tools Working with data such as Integers and Strings Creating reusable code with functions Working with data constructs such as arrays and dictionaries Object-oriented programming Model View ControllerBy the end of this course you will know how to build simple programs with the Swift programming language and you will be ready to learn iOS mobile development."
+    "about": "In this course we will introduce you to the absolute basics of the Swift programming language.  Whether you are a brand new programmer or have experience with other programming languages this course is for you.Some of the things you will learn in this course are:An Introduction to Swift 5 programming concepts Installing the necessary tools Working with data such as Integers and Strings Creating reusable code with functions Working with data constructs such as arrays and dictionaries Object-oriented programming Model View ControllerBy the end of this course you will know how to build simple programs with the Swift programming language and you will be ready to learn iOS mobile development."
   },
   {
     "_id": "63595494e6b4c9a6b04b8361",
@@ -62,7 +56,7 @@
 
     "info": "Learn Graph Theory,C++11,C++,Graph Algorithms",
 
-    "about":"This course is for experienced C programmers who want to program in C++. The examples and exercises require a basic understanding of algorithms and object-oriented software."
+    "about": "This course is for experienced C programmers who want to program in C++. The examples and exercises require a basic understanding of algorithms and object-oriented software."
   },
   {
     "_id": "635954946c24f003ab285419",
@@ -70,19 +64,7 @@
     "category_id": "02",
     "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/e5/7aeafc636b47aa83ee4e5d7ac5f337/136528.png?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25",
     "info": "Learn Debugging,User Interface,React (Web Framework)HTML and CSS",
-    "about":"
-    In this course, you’ll use software development tools like HTML to build attractive web pages that work well—and you’ll use structured semantic data to control how websites appear to the end user. 
-
-    You will then dive deeper into CSS by applying increasingly specific styling to various elements. You’ll learn to use Bootstrap’s grid system to create layouts and work with components and themes. Finally, you’ll explore debugging and learn how it can be utilized to banish common front-end errors.
-    
-    By the end of this course you will be able to:
-    
-    •	Create a simple form with a responsive layout using HTML5 and CSS
-    •	Create a responsive layout using CSS 
-    •	Create a UI using Bootstrap
-    •	Implement debugging tools
-    
-    This is a beginner course for learners who would like to prepare themselves for a career in front-end development. To succeed in this course, you do not need prior development experience, only basic internet navigation skills and an eagerness to get started with coding."
+    "about": "By the end of the course you will learn Create a simple form with a responsive layout using HTML5 and CSS Create a responsive layout using CSS Create a UI using Bootstrap Implement debugging tools.This is a beginner course for learners who would like to prepare themselves for a career in front-end development. To succeed in this course you do not need prior development experience  only basic internet navigation skills and an eagerness to get started with coding."
   },
   {
     "_id": "6359549471030d28ad70b171",
@@ -90,12 +72,7 @@
     "category_id": "02",
     "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/32/b88140502611e5bf374909c194f0db/introhtml_thumnail_1x1.png?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25",
     "info": "Skill you will gain Web Design,Web Accessibility,HTML,Html5",
-    "about":"
-    Thanks to a growing number of software programs, it seems as if anyone can make a webpage. But what if you actually want to understand how the page was created? There are great textbooks and online resources for learning web design, but most of those resources require some background knowledge. This course is designed to help the novice who wants to gain confidence and knowledge. We will explore the theory (what actually happens when you click on a link on a webpage?), the practical (what do I need to know to make my own page?), and the overlooked (I have a page, what do I do now?). Throughout the course there will be a strong emphasis on adhering to syntactic standards for validation and semantic standards to promote wide accessibility for users with disabilities.  The textbook we use is available online, “The Missing Link: An Introduction to Web Development and Programming” by Michael Mendez from www.opensuny.org. 
-
-    This course will appeal to a wide variety of people, but specifically those who would like a step-by-step description of the basics. There are no prerequisites for this course and it is assumed that students have no prior programming skills or IT experience. The course will culminate in a small final project that will require the completion of a very simple page with links and images. The focus of this course is on the basics, not appearance. You can see a sample final page at http://intro-webdesign.com/html5-plain.html.  
-    
-    This is the first course in the Web Design For Everybody specialization. Subsequent courses focus on the marketable skills of styling the page with CSS3, adding interactivity with JavaScript and enhancing the styling with responsive design. You can see a sample site for the capstone course at http://intro-webdesign.com/"
+    "about": "Thanks to a growing number of software programs it seems as if anyone can make a webpage But what if you actually want to understand how the page was created? There are great textbooks and online resources for learning web design but most of those resources require some background knowledge. This course is designed to help the novice who wants to gain confidence and knowledge. We will explore the theory (what actually happens when you click on a link on a webpage?) the practical (what do I need to know to make my own page?) and the overlooked (I have a page what do I do now?). Throughout the course there will be a strong emphasis on adhering to syntactic standards for validation and semantic standards to promote wide accessibility for users with disabilities  The textbook we use is available online “The Missing Link: An Introduction to Web Development and Programming” by Michael Mendez from www.opensuny.org This course will appeal to a wide variety of people but specifically those who would like a step-by-step description of the basics. There are no prerequisites for this course and it is assumed that students have no prior programming skills or IT experience. The course will culminate in a small final project that will require the completion of a very simple page with links and images.This is the first course in the Web Design For Everybody specialization. Subsequent courses focus on the marketable skills of styling the page with CSS3 adding interactivity with JavaScript and enhancing the styling with responsive design"
   },
   {
     "_id": "63595494a37774158b9ab36d",
@@ -104,14 +81,7 @@
     "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/9b/376180502811e5a352932b5892ee29/introcss_thumbnail_1x1.png?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25",
     "info": "Skill you will gain Web Design,Style Sheets,Cascading Style Sheets (CSS),Web Development ",
 
-    "about":"
-    The web today is almost unrecognizable from the early days of white pages with lists of blue links.  Now, sites are designed with complex layouts, unique fonts, and customized color schemes.   This course will show you the basics of Cascading Style Sheets (CSS3).  The emphasis will be on learning how to write CSS rules, how to test code, and how to establish good programming habits.     
-
-    When done correctly, the styling of a webpage can take enhance your page.   When done incorrectly the result can be worse than no styling at all.    To ensure that your sites do not put up  barriers for people with cognitive and/or physical disabilities, you will learn how to evaluate pages using the standardized POUR accessibility guidelines.    Upon completion of the course, learners will be able to sketch a design for a given HTML page.  Using that design they will use CSS to implement the design by adding fonts, colors, and  layouts.    
-    
-    This is the second course in the Web Design For Everybody specialization.   Subsequent courses focus on adding interaction with JavaScript and enhancing the styling with responsive design.
-    
-    It will be difficult to complete this course if you do not have access to a laptop or desktop computer for the homework."
+    "about": "This course will show you the basics of Cascading Style Sheets (CSS3).The emphasis will be on learning how to write CSS rules how to test code and how to establish good programming habits.When done correctly the styling of a webpage can take enhance your page.   When done incorrectly the result can be worse than no styling at all To ensure that your sites do not put up  barriers for people with cognitive and/or physical disabilities you will learn how to evaluate pages using the standardized POUR accessibility guidelines.Upon completion of the course learners will be able to sketch a design for a given HTML page.  Using that design they will use CSS to implement the design by adding fonts colors and  layouts.This is the second course in the Web Design For Everybody specialization.   Subsequent courses focus on adding interaction with JavaScript and enhancing the styling with responsive design"
   },
   {
     "_id": "63595494a70757283c1343bb",
@@ -119,12 +89,7 @@
     "category_id": "02",
     "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/31/6abd60669411e5939373fafc912bbf/Slide1.png?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25",
     "info": "You will learn Bootstrap (Front-End Framework),SASS (Stylesheet Language)",
-    "about":"
-    This course will give you an overview of client-side web UI frameworks, in particular Bootstrap 4. You will learn about grids and responsive design, Bootstrap CSS and JavaScript components. You will learn about CSS preprocessors, Less and Sass. You will also learn the basics of Node.js and NPM and task runners like Grunt and Gulp.
-
-    At the end of this course, you will be able to a)Set up, design and style a web page using Bootstrap 4 and its components, b) Create a responsive web page design, and c) Make use of web tools to setup and manage web sites.
-    This course also includes an honors track that enables you to work on your own project developing a website using Bootstrap 4.
-    Students enrolling in this course should have prior good working knowledge of HTML, CSS and JavaScript."
+    "about": "At the end of this course you will be able to a)Set up design and style a web page using Bootstrap 4 and its components b) Create a responsive web page design and c) Make use of web tools to setup and manage web sites This course also includes an honors track that enables you to work on your own project developing a website using Bootstrap 4 Students enrolling in this course should have prior good working knowledge of HTML CSS and JavaScript"
   },
   {
     "_id": "635954942b40b3ffb69f3d54",
@@ -133,7 +98,7 @@
     "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/ea/961791a1904ea09af31999810fd916/Webserviceslogo.png?auto=format%2Ccompress&dpr=1&w=330&h=330&q=25&fit=fill",
 
     "info": "Front-End Web Development,Web Service,HTML,CSS,JavaScript,React",
-    "about":"This specialization is geared toward beginning users who would like to learn and build Front-End Developer Skills. The courses in this series cover SOAP Web Services with JAX-WS, RESTful Web Services with JAX-Rs, and HTML - Front-End Developer among others, to help learners build a solid foundational knowledge."
+    "about": "This specialization is geared toward beginning users who would like to learn and build Front-End Developer Skills. The courses in this series cover SOAP Web Services with JAX-WS, RESTful Web Services with JAX-Rs, and HTML - Front-End Developer among others, to help learners build a solid foundational knowledge."
   },
   {
     "_id": "63595494dfa290cd945b8b70",
@@ -141,181 +106,103 @@
     "category_id": "02",
     "img": "hhttps://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/54/a8edbfdb8040e89d9177b53c50492d/Logo.jpg?auto=format%2Ccompress&dpr=1&w=330&h=330&q=25&fit=fill",
     "info": "You will learn CSS,Tailwind,Bootstrap and some components",
-    "about":"
-    The web today is almost unrecognizable from the early days of white pages with lists of blue links.  Now, sites are designed with complex layouts, unique fonts, and customized color schemes.   This course will show you the basics of Cascading Style Sheets (CSS3).  The emphasis will be on learning how to write CSS rules, how to test code, and how to establish good programming habits.     
-
-    When done correctly, the styling of a webpage can take enhance your page.   When done incorrectly the result can be worse than no styling at all.    To ensure that your sites do not put up  barriers for people with cognitive and/or physical disabilities, you will learn how to evaluate pages using the standardized POUR accessibility guidelines.    Upon completion of the course, learners will be able to sketch a design for a given HTML page.  Using that design they will use CSS to implement the design by adding fonts, colors, and  layouts.    
-    
-    This is the second course in the Web Design For Everybody specialization.   Subsequent courses focus on adding interaction with JavaScript and enhancing the styling with responsive design.
-    
-    It will be difficult to complete this course if you do not have access to a laptop or desktop computer for the homework"
+    "about": "The web today is almost unrecognizable from the early days of white pages with lists of blue links  Now sites are designed with complex layouts unique fonts and customized color schemes This course will show you the basics of Cascading Style Sheets (CSS3)  The emphasis will be on learning how to write CSS rules how to test code and how to establish good programming habits When done correctly the styling of a webpage can take enhance your page.   When done incorrectly the result can be worse than no styling at all.    To ensure that your sites do not put up  barriers for people with cognitive and/or physical disabilities you will learn how to evaluate pages using the standardized POUR accessibility guidelines.    Upon completion of the course learners will be able to sketch a design for a given HTML page.  Using that design they will use CSS to implement the design by adding fonts colors and  layouts."
   },
   {
     "_id": "635954948540e32825c49fa5",
     "name": " IBM CyberSecurity Analyst",
     "category_id": "03",
-    "img": "http://placehold.it/32x32",
-    "info": "http://placehold.it/32x32"
+    "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/67/6a8a23c93d424fa3a39138428681f3/Professional_Certificate_-_IBM_Cybersecurity_Analyst.png?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25",
+
+    "info": "You will learn Develop knowledge of cybersecurity analyst tools including data protection; endpoint protection; SIEM; and systems and network fundamentals Learn about key compliance and threat intelligence topics important in today’s cybersecurity landscape.Gain skills for incident responses and forensics with real-world cybersecurity case studies.Get hands-on experience to develop skills via industry specific and open source Security tools."
   },
   {
     "_id": "635954945de8292ee808f1f1",
     "name": "Ethical Hacking Essentials ",
     "category_id": "03",
-    "img": "http://placehold.it/32x32",
-    "info": "http://placehold.it/32x32"
+    "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/69/a345609988487aa0c3bc217427e618/Ethical-Hacking-Essentials-EHE-.jpg?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25",
+    "info": "Ethical Hacking Essentials is an introductory cybersecurity course that covers ethical hacking and penetration testing fundamentals and prepares learners for a career in cybersecurity. This course will introduce learners to computer and network security concepts such as threats and vulnerabilities, password cracking, web application attacks, IoT and OT attacks, cloud computing, pentesting fundamentals, and more.This course provides hands-on practical experience to learners thus giving them the skills necessary for a future in cybersecurity.EHE-certified learners have an assured means of formal recognition to add to their resumes and show off their expertise and skills to prospective employers. This improves their prospects for employment advancement, higher salaries, and greater job satisfaction."
   },
   {
     "_id": "63595494c6eb05af5d762d0d",
     "name": "Introduction to CyberSecurity ",
     "category_id": "03",
-    "img": "http://placehold.it/32x32",
-    "info": "http://placehold.it/32x32"
+    "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/e5/5b94f0bb5811e78eb4ffb2bb669fdb/Introduction-to-Cyber-Security.png?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25",
+    "info": "Summarize the main purpose of cyber security as a discipline, basics of identification and authentication in cyber security,pros and cons of security through obscurity,Develop a lifelong learning plan for potential careers in cyber security"
   },
-  {
-    "_id": "635954948c641eb0b1ad645b",
-    "name": "CyberSecurity Attack and Defense Fundamentals ",
-    "category_id": "03",
-    "img": "http://placehold.it/32x32",
-    "info": "http://placehold.it/32x32"
-  },
-  {
-    "_id": "635954943111ad750dd7aa8c",
-    "name": " Master of Science in CyberSecurity",
-    "category_id": "03",
-    "img": "http://placehold.it/32x32",
-    "info": "http://placehold.it/32x32"
-  },
-  {
-    "_id": "63595494c7acce2279888d83",
-    "name": "CyberSecurity for Everyone ",
-    "category_id": "03",
-    "img": "http://placehold.it/32x32",
-    "info": "http://placehold.it/32x32"
-  },
+
   {
     "_id": "63595494426e0686fbd9969a",
     "name": "Introduction to Data Science ",
     "category_id": "04",
-    "img": "http://placehold.it/32x32",
-    "info": "http://placehold.it/32x32"
+    "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/32/d719a2d0d946d59e1151bc10ec29f5/Specialization-Certificate-Emblem---IDS---600x600.png?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25",
+
+    "info": "Describe what data science and machine learning are, their applications & use cases, and various types of tasks performed by data scientists,Gain hands-on familiarity with common data science tools including JupyterLab, R Studio, GitHub and Watson Studio,Develop the mindset to work like a data scientist, and follow a methodology to tackle different types of data science problems,Write SQL statements and query Cloud databases using Python from Jupyter notebooks"
   },
   {
     "_id": "63595494ba3689da2f6ee5e9",
     "name": "Applied Data Science with Python ",
     "category_id": "04",
-    "img": "http://placehold.it/32x32",
-    "info": "http://placehold.it/32x32"
+    "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/eb/8e18e0a4f111e59ae9c776a3dd0526/jhu-logo-thumb.png?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25",
+    "info": "This Specialization covers the concepts and tools you'll need throughout the entire data science pipeline, from asking the right kinds of questions to making inferences and publishing results. In the final Capstone Project, you’ll apply the skills learned by building a data product using real-world data. At completion, students will have a portfolio demonstrating their mastery of the material."
   },
   {
     "_id": "63595494e179458f102af141",
     "name": "Advanced Data Science with IBM ",
     "category_id": "04",
-    "img": "http://placehold.it/32x32",
-    "info": "http://placehold.it/32x32"
+    "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/58/ab336088f511e8944e7b54193638b4/Specialization_Certificate_Emblem_-_AADS_-__Final.png?auto=format%2Ccompress&dpr=1&w=330&h=330&q=25&fit=fill",
+    "info": "Learners will build fully scalable end to end data integration, machine learning and deep learning pipelines using the most prominent and widely used frameworks and technologies like Apache Spark, scikit-learn, SparkML, SystemML, TensorFlow, Keras, PyTorch, DeepLearning4J, Apache CouchDB and MQTT."
   },
-  {
-    "_id": "63595494c379fd5fae370a7a",
-    "name": "Data Science Math Skills ",
-    "category_id": "04",
-    "img": "http://placehold.it/32x32",
-    "info": "http://placehold.it/32x32"
-  },
-  {
-    "_id": "635954942b5b1e9691b2680a",
-    "name": "Master of Science in Data Science ",
-    "category_id": "04",
-    "img": "http://placehold.it/32x32",
-    "info": "http://placehold.it/32x32"
-  },
-  {
-    "_id": "63595494aa394aadcbeffa7a",
-    "name": "Practical Data Science on AWS cloud ",
-    "category_id": "04",
-    "img": "http://placehold.it/32x32",
-    "info": "http://placehold.it/32x32"
-  },
+
   {
     "_id": "635954940a819e730d20d40c",
     "name": "Machine Learning ",
     "category_id": "05",
-    "img": "http://placehold.it/32x32",
-    "info": "http://placehold.it/32x32"
+    "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/c4/b502505a3f495caa0ec3e00d0dc696/Machine-Learning-for-Everyone-image.jpg?auto=format%2Ccompress&dpr=1&w=330&h=330&q=25&fit=fill",
+    "info": "This three-module course introduces machine learning and data science for everyone with a foundational understanding of machine learning models. You’ll learn about the history of machine learning, applications of machine learning, the machine learning model lifecycle, and tools for machine learning. You’ll also learn about supervised versus unsupervised learning, classification, regression, evaluating machine learning models, and more. Our labs give you hands-on experience with these machine learning and data science concepts. You will develop concrete machine learning skills as well as create a final project demonstrating your proficiency.After completing this program, you’ll be able to realize the potential of machine learning algorithms and artificial intelligence in different business scenarios. You’ll be able to identify when to use machine learning to explain certain behaviors and when to use it to predict future outcomes. You’ll also learn how to evaluate your machine learning models and to incorporate best practices. "
   },
   {
     "_id": "63595494bd5b4f8c0f13c8d8",
     "name": "AI for Everyone ",
     "category_id": "05",
-    "img": "http://placehold.it/32x32",
-    "info": "http://placehold.it/32x32"
+    "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/41/763803169e4d31a5e7611bc928124b/Course-Logo.png?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25",
+    "info": "In this course, you will learn: meaning behind common AI terminology, including neural networks, machine learning, deep learning, and data science,What AI realistically can--and cannot--do,How to spot opportunities to apply AI to problems in your own organization,What it feels like to build machine learning and data science projects."
   },
   {
     "_id": "635954946ddd6a4401255b40",
     "name": "Introduction to Artificial Intelligence ",
     "category_id": "05",
-    "img": "http://placehold.it/32x32",
-    "info": "http://placehold.it/32x32"
+    "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/f7/9812f978144ce8ac721727bc516cb0/Intro-to-AI-Naimo.jpg?auto=format%2Ccompress&dpr=1&w=330&h=330&q=25&fit=fill",
+    "info": "In this course you will learn what Artificial Intelligence (AI) is, explore use cases and applications of AI, understand AI concepts and terms like machine learning, deep learning and neural networks. You will be exposed to various issues and concerns surrounding AI such as ethics and bias, & jobs, and get advice from experts about learning and starting a career in AI.  You will also demonstrate AI in action with a mini project."
   },
-  {
-    "_id": "635954949133d078937647af",
-    "name": "AI for Business ",
-    "category_id": "05",
-    "img": "http://placehold.it/32x32",
-    "info": "http://placehold.it/32x32"
-  },
+
   {
     "_id": "63595494c4c503ad9ca74714",
     "name": "Deep Learning ",
     "category_id": "05",
-    "img": "http://placehold.it/32x32",
-    "info": "http://placehold.it/32x32"
+    "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/a4/079d5e7c7b45ac9107f22bfcfeab91/Specialization-logo.png?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25",
+    "info": "In this Specialization, you will build and train neural network architectures such as Convolutional Neural Networks, Recurrent Neural Networks, LSTMs, Transformers, and learn how to make them better with strategies such as Dropout, BatchNorm, Xavier/He initialization, and more. Get ready to master theoretical concepts and their industry applications using Python and TensorFlow and tackle real-world cases such as speech recognition, music synthesis, chatbots, machine translation, natural language processing, and more."
   },
-  {
-    "_id": "635954946d5437937033f07d",
-    "name": "Machine Learning for AI ",
-    "category_id": "05",
-    "img": "http://placehold.it/32x32",
-    "info": "http://placehold.it/32x32"
-  },
+
   {
     "_id": "6359549487023e7a8c226c05",
     "name": "Data Structure and Algorithms ",
     "category_id": "06",
-    "img": "http://placehold.it/32x32",
-    "info": "http://placehold.it/32x32"
+    "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/2a/34a150d9ad11e5bd22cb7d7d7686df/logo3.png?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25",
+    "info": "The specialization contains two real-world projects: Big Networks and Genome Assembly. You will analyze both road networks and social networks and will learn how to compute the shortest route between New York and San Francisco 1000 times faster than the shortest path algorithms you learn in the standard Algorithms 101 course! Afterwards, you will learn how to assemble genomes from millions of short fragments of DNA and how assembly algorithms fuel recent developments in personalized medicine.Play with 50 algorithmic puzzles on your smartphone to develop your algorithmic intuition!  Apply algorithmic techniques (greedy algorithms, binary search, dynamic programming, etc.) and data structures (stacks, queues, trees, graphs, etc.) to solve 100 programming challenges that often appear at interviews at high-tech companies. Get an instant feedback on whether your solution is correct.Apply the newly learned algorithms to solve real-world challenges: navigating in a Big Network  or assembling a genome of a deadly pathogen from millions of short substrings of its DNA."
   },
   {
     "_id": "63595494a88ff020c73babf1",
     "name": "Algorithms for Beginners ",
     "category_id": "06",
-    "img": "http://placehold.it/32x32",
-    "info": "http://placehold.it/32x32"
+    "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/5e/41de00794811e682cb918e3e406e4d/cs161logo.png?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25",
+    "info": "Learners will practice and master the fundamentals of algorithms through several types of assessments.  Every week, there is a multiple choice quiz to test your understanding of the most important concepts.  There are also weekly programming assignments, where you implement one of the algorithms covered in lecture in a programming language of your choosing.  Each course concludes with a multiple-choice final exam. This specialization is an introduction to algorithms for learners with at least a little programming experience.  The specialization is rigorous but emphasizes the big picture and conceptual understanding over low-level implementation and mathematical details.  After completing this specialization, you will be well-positioned to ace your technical interviews and speak fluently about algorithms with other programmers and computer scientists."
   },
   {
     "_id": "635954949f2962fb21706830",
     "name": "Data Mining ",
     "category_id": "06",
-    "img": "http://placehold.it/32x32",
-    "info": "http://placehold.it/32x32"
-  },
-  {
-    "_id": "635954940f5c588876277e26",
-    "name": "Algorithm for Searching,Sorting and Indexing ",
-    "category_id": "06",
-    "img": "http://placehold.it/32x32",
-    "info": "http://placehold.it/32x32"
-  },
-  {
-    "_id": "635954941daf546438f518b5",
-    "name": "Advanced Data Structures in Java ",
-    "category_id": "06",
-    "img": "http://placehold.it/32x32",
-    "info": "http://placehold.it/32x32"
-  },
-  {
-    "_id": "6359549484e49b098828926d",
-    "name": "Graph Search,Shortest Path and Data Structures ",
-    "category_id": "06",
-    "img": "http://placehold.it/32x32",
-    "info": "http://placehold.it/32x32"
+    "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/96/64e89ae5534cbcbdc81c1e47f2a121/data_mining_spec_logo_adjusted_with_text.png?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25",
+    "info": "Data mining pipeline: data understanding, preprocessing, warehousing,Data mining methods: frequent patterns, classification, clustering, outliers ,Data mining project: project formulation, design, implementation, reporting.B​y the end of this course, you will be able to identify the key components of the data mining pipeline ​and describe how they're related."
   }
 ]
