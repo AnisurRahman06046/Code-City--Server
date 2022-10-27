@@ -25,6 +25,11 @@ app.get("/course/:id", (req, res) => {
   const singleCourse = courses.find((n) => n._id === id);
   res.send(singleCourse);
 });
+app.get("/checkout/:id", (req, res) => {
+  const id = req.params.id;
+  const singleCourse = courses.find((n) => n._id === id);
+  res.send(singleCourse);
+});
 app.listen(port, () => {
   console.log("server is running", port);
 });
